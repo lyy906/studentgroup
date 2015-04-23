@@ -51,7 +51,7 @@ border-color: green;
 
 }
 .iron-row {
-	border-top: 2px dashed #D4D4D4;
+	border-top: 2px #D4D4D4;
 	background-color: #2B2B2B;
 }
 .iron-desc-text {
@@ -106,7 +106,7 @@ border-color: green;
 }
 
 .kara-block-title {
-	background-color: #E13529;
+	background-color: white;
 	color:white;
 	padding-top: 30%;
 	padding-bottom: 30%;
@@ -114,6 +114,7 @@ border-color: green;
 .kara-block-title h2 {
 	font-size: 40px;
 	text-transform: uppercase;
+        color: black;
 }
 .kara-block-desc1 {
 	background-color:  #2B2B2B;
@@ -142,7 +143,7 @@ border-color: green;
 		width: 0;
 		position: absolute;
 		pointer-events: none;
-		border-top-color: #E13529;
+		border-top-color: white;
 		border-width: 40px;
 		left: 50%;
 		margin-left: -40px;
@@ -169,7 +170,7 @@ border-color: green;
 		width: 0;
 		position: absolute;
 		pointer-events: none;
-		border-right-color: #E13529;
+		border-right-color: white;
 		border-width: 40px;
 		left: 0%;
 		margin-left: -80px;
@@ -177,12 +178,12 @@ border-color: green;
 }
 
 .excu-header-row {
-	background-color: #E13529;
-	border-top: 2px dashed #D4D4D4;
+	background-color: white;
+	border-top: 2px #D4D4D4;
 }
 
 .excu-header {
-	color:white;
+	color:black;
 	font-size: 50px;
 	text-transform: uppercase;
 	margin: 0px;
@@ -199,7 +200,7 @@ border-color: green;
 	width: 0;
 	position: absolute;
 	pointer-events: none;
-	border-top-color: #E13529;
+	border-top-color: white;
 	border-width: 40px;
 	right: 0%;
 	margin-left: -10%;
