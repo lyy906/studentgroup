@@ -14,7 +14,7 @@ border-color: green;
 }
 
 .summ-block-title {
-  color: rgb(21, 1, 1);
+  color: White;
   font-weight: 900;
   font-size: 120px;
   line-height: 85px;
@@ -106,8 +106,8 @@ border-color: green;
 }
 
 .kara-block-title {
-	background-color: white;
-	color:white;
+	background-color: yellow;
+	color:pink;
 	padding-top: 30%;
 	padding-bottom: 30%;
 }
@@ -178,7 +178,7 @@ border-color: green;
 }
 
 .excu-header-row {
-	background-color: white;
+	background-color: yellow;
 	border-top: 2px #D4D4D4;
 }
 
